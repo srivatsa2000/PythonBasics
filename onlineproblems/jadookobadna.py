@@ -1,4 +1,5 @@
 char = input()
+
 output = ""
 
 for each_letter in char:
@@ -11,4 +12,3 @@ for each_letter in char:
     else:
         output += 'U'
 print(output)
-
